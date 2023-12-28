@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @carmenkv , multimedia composer and performer from Valencia.
-- 👀 I’m interested in electronics (3D sound), XR technology and performance. 
+- 👋 Hi, I’m @carmenkv , multimedia composer and performer from Valencia, Spain.
+- 👀 I’m interested in XR technology, electronics (3D sound) and performance. Also, I love to teach and to learn with my students.
 - 🌱 I’m currently doing PH.D studies in Hfmt of Hamburg inside the multimedia department :D
 - 💞️ I’m looking to collaborate, learn and explore with different codes, engines and goups of people ^^ 
 - 📫 How to reach me : www.carmenkleykens.com or carmenkv16@gmail.com ! 
